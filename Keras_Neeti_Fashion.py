@@ -17,7 +17,7 @@ import numpy as np
 
 
 # Load Training and test data.
-dataset_train = np.loadtxt('fashion-mnist_train.csv', delimiter=',',dtype=int ,skiprows=1)
+dataset_train = np.loadtxt('fashion-mnist_train1.csv', delimiter=',',dtype=int ,skiprows=1)
 x_train = dataset_train[:,1:]
 y_train = dataset_train[:,0]
 dataset_test = np.loadtxt('fashion-mnist_test.csv', delimiter=',',dtype=int ,skiprows=1)
