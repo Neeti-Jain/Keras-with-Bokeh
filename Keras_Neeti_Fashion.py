@@ -1,9 +1,8 @@
 """
-# Assignment 2
+
 # Demonstration of Keras and Bokeh
 # 
-# Submitted by: Neeti Jain
-# 
+ 
 
 """
 
